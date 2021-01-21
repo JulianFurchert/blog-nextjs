@@ -1,6 +1,6 @@
 ---
 key: 3
 title: Examples
-color: ''
+color: "#BD10E0"
 
 ---
